@@ -44,3 +44,6 @@ A sample dasboard app of the OpenInApp which fetches and then displays the data 
 
 ## Working of the app - 
 <img src="Screenshots/Listeddemo.gif" height = "400" width="200">
+
+
+### Download and Test the app [here](https://drive.google.com/file/d/1ISJg7XC_mxpNE-dziHwPxRdHiG36JW1x/view?usp=sharing)
