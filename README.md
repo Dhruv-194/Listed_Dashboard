@@ -41,3 +41,6 @@ A sample dasboard app of the OpenInApp which fetches and then displays the data 
 - **Retrofit Library** : Used the Retrofit library which is type-safe HTTP client for Android for interacting with API.
 - **LineChart Library**: Used the WilliamChart Library to rapidly develop attractive and insightful linechart in application.
 - **ViewPager and Adapter** : USed the concept of VIewPager and ViewPager Adapter to show the split of 'Top Links' and 'Recent Links'.
+
+## Working of the app - 
+<img src="Screenshots/Listeddemo.gif" height = "400" width="200">
